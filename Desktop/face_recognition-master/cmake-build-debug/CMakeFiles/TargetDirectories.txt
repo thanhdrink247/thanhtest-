@@ -1,0 +1,3 @@
+/home/code/face-detchtion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/code/face-detchtion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/code/face-detchtion/cmake-build-debug/CMakeFiles/face_detection.dir
